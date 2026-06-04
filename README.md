@@ -1,11 +1,10 @@
 # Hi there, I'm Sayed Ibrahim Omar Ali 👋
 
-I am a Social Work Educator with a Bachelor's degree in Social Work from Culture and Science City University.
+I am a Social Work Educator with a Bachelor's degree in Social Work from Culture
 
 I am passionate about education, student development, and the use of Artificial Intelligence to create better learning experiences. My goal is to support students in developing their skills, achieving academic success, and preparing for future opportunities.
 
 Social Work Educator
-Culture and Science City University
 Interested in Artificial Intelligence and Educational Technology
 Dedicated to Student Success and Lifelong Learning
 
